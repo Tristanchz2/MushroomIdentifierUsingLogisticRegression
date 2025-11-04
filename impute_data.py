@@ -5,7 +5,7 @@ from pathlib import Path
 # === 1. path configuration ===
 OLD_PATH = Path("data/mushrooms.csv")
 NEW_PATH = Path("data/mushrooms_enhanced.csv")
-OUTPUT_PATH = Path("data/output/mushrooms_combined_imputed.csv")
+OUTPUT_PATH = Path("data/output/mushrooms_new_imputed.csv")
 
 # === 2. read and load data ===
 print("🔹 Loading datasets...")
