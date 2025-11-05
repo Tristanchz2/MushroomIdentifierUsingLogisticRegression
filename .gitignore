@@ -3,3 +3,4 @@
 *.code-workspace
 mushroom_lr_artifacts/
 data/output/
+.venv/
